@@ -1,66 +1,66 @@
 const newsList = [
     {
-    "img": "./Assets/Newsitems/1.webp",
+    "img": "./Assets/NewsItems/1.webp",
     "title": "What Trump's return could mean for the US and the world",
     "description": "No stopping Trump as he goes about destroying opponents, threatens donors and declares politics of vengeance against party rivals, making all simply fold"
     },
     {
-    "img": "./Assets/Newsitems/2.webp",
+    "img": "./Assets/NewsItems/2.webp",
     "title": "Bihar crisis: JD(U) hints at parting ways but Cong says 'no implosion' in INDIA bloc",
     "description": ""
     },
     {
-    "img": "./Assets/Newsitems/3.webp",
+    "img": "./Assets/NewsItems/3.webp",
     "title": "Nitish set for another U-turn? How numbers stack up in Bihar",
     "description": ""
     },
     {
-    "img": "./Assets/Newsitems/4.webp",
+    "img": "./Assets/NewsItems/4.webp",
     "title": "Navy warship helps vessel struck by missile in Gulf of Aden",
     "description": "",
     },
     {
-    "img": "./Assets/Newsitems/5.webp",
+    "img": "./Assets/NewsItems/5.webp",
     "title": "Bopanna wins maiden men's doubles Slam title at Aus Open",
     "description": "India's Rohan Bopanna and Australian Matthew Ebden dug deep to win the Australian Open men's doubles title on Saturday with a 7-6(0) 7-5 victory over Italian duo Simone Bolelli and Andrea Vavassori.",
     },
     {
-    "img": "./Assets/Newsitems/6.webp",
+    "img": "./Assets/NewsItems/6.webp",
     "title": "'Nitish likely to resign by Sunday morning': Key points",
     "description": "",
     },
     {
-    "img": "./Assets/Newsitems/7.webp",
+    "img": "./Assets/NewsItems/7.webp",
     "title": "Why 'unhappy' Nitish Kumar may be set to go back to BJP",
     "description": "The Bihar chief minister is said to be contemplating on taking a ‘big decision’ amid speculation about his possible return to the NDA fold ahead of 2024 polls",
     },
     {
-    "img": "./Assets/Newsitems/8.webp",
+    "img": "./Assets/NewsItems/8.webp",
     "title": "Ola's Krutrim is the first billion-dollar Indian AI startup",
     "description": "Krutrim, India's first AI unicorn, raised $50 million in funding led by Matrix Partners. The investment valued the AI company at $1 billion. Krutrim aims to revolutionize the AI landscape globally and drive meaningful change. The funds will accelerate their mission to build India's complete AI computing stack. Krutrim recently unveiled its base large language model (LLM) with a focus on Indian languages.",
     },
     {
-    "img": "./Assets/Newsitems/9.webp",
+    "img": "./Assets/NewsItems/9.webp",
     "title": "Nasa spots Japan's lunar lander on the Moon",
     "description": "",
     },
     {
-    "img": "./Assets/Newsitems/10.webp",
+    "img": "./Assets/NewsItems/10.webp",
     "title": "Bumrah's ability to get reverse swing leaves Root gushing",
     "description": "Amid the focus on spinners, pacer Jasprit Bumrah on Saturday made a statement of his skills bagging two crucial wickets that helped India keep pace with England on the third day of the first Test in Hyderabad. In a dazzling display of skill and ability to extract reverse swing, Bumrah dismissed Ben Duckett and Joe Root in the middle session of the day. India's bowling coach Paras Mhambrey was stating the obvious when he rated Bumrah as an all-weather bowler. ",
     },
     {
-    "img": "./Assets/Newsitems/11.webp",
+    "img": "./Assets/NewsItems/11.webp",
     "title": "Parents of dead Indian-American student accuse police",
     "description": "The parents of an 18-year-old Indian-American student who was found dead at the University of Illinois have filed a complaint against the school's police department for negligence. They accused the police of mishandling the search for their son, who was found dead just 400 feet away from where he was reported missing.",
     },
     {
-    "img": "./Assets/Newsitems/12.webp",
+    "img": "./Assets/NewsItems/12.webp",
     "title": "$500bn economy by F28: How Ram Mandir can fuel boom in UP",
     "description": "",
     },
     {
-    "img": "./Assets/Newsitems/13.webp",
+    "img": "./Assets/NewsItems/13.webp",
     "title": "Trump ordered to pay victim $83m in rape defamation case",
     "description": `Trump has repeatedly denied the allegation that he sexually assaulted Carroll in a department store dressing room in 1996, but the jury determined that in course of his rebuttal he had disparaged her, and ordered him to pay her $7.3 million for "emotional harm," $11 million for "reputational damages," and $65 million in "punitive damages."`,
     },
